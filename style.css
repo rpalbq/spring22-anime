@@ -1,4 +1,12 @@
 @charset "UTF-8";
+@font-face {
+    font-family:titulo;
+    src: url("midia/Ftyoverkillhammerednc-nyAJ.otf")
+}
+@font-face {
+    font-family: subtitulo;
+    src: url("midia/Hangyaku-gxGG5.ttf");
+}
 
 * {
     margin: 0px;
@@ -12,13 +20,87 @@ body {
 header {
     border: 2px solid red;
     background-color: white;
-    height: 150px;
+    height: 170px;
 }
 
 #titulo {
     text-align: center;
-    padding: 35px;
+    padding: 25px;
     border: 2px solid yellow;
+    font-family: titulo;
+    font-size: 70px;
+}
+
+nav {
+    
+}
+
+#link{
+    padding: 10px;
+}
+
+#link:visited {
+    text-decoration: none;
+    color: rgb(48, 45, 45);
+}
+
+#link:hover {
+    color: rgb(114, 110, 110);
+    font-size: 20px;
+    text-decoration: none;
+    font-style: normal;
 }
 
 
+
+section {
+    background-color: white;
+    width: 800px;
+    height: 1000px;
+    margin: auto;
+    margin-top: 40px;
+    margin-bottom: 30px;
+    border-radius: 2px;
+    box-shadow: 4px 4px 4px rgba(0, 0, 0, 0.61);
+}
+
+.subtitulo {
+    text-align: center;
+    padding: 20px;
+    border: 3px solid red;
+    font-family: subtitulo;
+    font-size: 50px;
+}
+
+.sinopse {
+    text-align: justify;
+    padding: 20px;
+}
+
+span {
+    font-weight: bolder;
+}
+
+.banner {
+    margin-left: 140px;
+
+}
+
+.foto {
+    width: 225px;
+    height: 320px;
+    border: 0.5px solid black;
+    margin: 10px;
+}
+
+.dados {
+   padding: 20px;
+}
+
+footer {
+    background-color: rgba(145, 145, 145, 0.993);
+    font-weight: bold;
+    font-size: 11px;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
