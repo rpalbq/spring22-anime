@@ -1,0 +1,24 @@
+@charset "UTF-8";
+
+* {
+    margin: 0px;
+}
+
+body {
+    background-image: url("https://i.pinimg.com/originals/92/64/d4/9264d41f19e24e14e793b5ed0cc4f5ab.jpg");
+    
+ }
+
+header {
+    border: 2px solid red;
+    background-color: white;
+    height: 150px;
+}
+
+#titulo {
+    text-align: center;
+    padding: 35px;
+    border: 2px solid yellow;
+}
+
+
