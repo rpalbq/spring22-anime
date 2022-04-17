@@ -14,5 +14,6 @@
 ANIME | NOTA
 :-----:|:------:
 **Spy X Family**        |:star2::star2::star2::star2::star2:
-**I'm Kodama Kawashiri**|:star2::star2::star2::star2:
-**Shokei Shoujo no Virgin Road**|:star2::star2:      
+**I'm Kodama Kawashiri**|:star2::star2::star2::star2::star2:
+**Shokei Shoujo no Virgin Road**|:star2::star2:     
+**Kawaii dake ja Nai Shikimori-san** | :star2: :star2: :star2:
