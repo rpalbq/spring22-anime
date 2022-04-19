@@ -5,7 +5,7 @@
  
 #### Observação
 - Apenas para treinar
-- Apenas HTML e CSS simples (sem flexbox e grid já que ainda não sei asjdhasjkdh)
+- Apenas HTML e CSS simples 
 - Irei modificar ao passar do tempo que eu for evoluindo nos estudos
 - Não está responsivo
 - **NÃO ESTÁ PRONTO**
